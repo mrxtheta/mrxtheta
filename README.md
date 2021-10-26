@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrxtheta
+- 👋 Hi, I’m x
 - 👀 I’m interested in networks
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on nothing
